@@ -1,0 +1,67 @@
+#navBar {
+    background-color:black;
+    color: white;
+    height: 30px;
+    line-height: 30px;
+    list-style-type: none;
+    padding: 8px;
+    margin: 0px;
+}
+
+#navBarListItem {
+    display: inline;
+    padding-right: 30px;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 20px;
+}
+
+#box1 {
+    background-image: url(./Images/bgimg.jpeg);
+    border-image-width: auto;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    color: white;
+    font-size: 50px;
+}
+
+#box1Image {
+    border-radius: 900px;
+    border-style: double;
+    border-color: white;
+    border-width: 10px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+#box2 {
+    display: flex;
+    align-items: center;
+    padding-left: 700px;
+}
+
+#box2Image {
+    border-radius: 50px;
+    height: 300px;
+    width: 400px;
+}
+
+#box2ImageCap {
+    font-size: 30px;
+    text-align: center;
+}
+
+#footer {
+    background-color: black;
+    height: 400px;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 300px;
+}
