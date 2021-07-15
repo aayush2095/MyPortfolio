@@ -16,7 +16,7 @@
 }
 
 #box1 {
-    background-image: url(./Images/bgimg.jpeg);
+    background-image: url(bgimg.jpeg);
     border-image-width: auto;
     height: 600px;
     display: flex;
